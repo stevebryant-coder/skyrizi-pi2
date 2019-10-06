@@ -1,1 +1,1 @@
-# skyrizi-pi2
+# Skyrizi-PI
